@@ -1,0 +1,16 @@
+[
+{
+  "modid": "expansesoundresource",
+  "name": "Expanse Sound Resources",
+  "description": "An assets mod that loads in sound files to be played with the playsound command.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tempest051"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
