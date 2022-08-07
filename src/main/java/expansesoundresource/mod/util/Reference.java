@@ -1,5 +1,6 @@
 package expansesoundresource.mod.util;
 
+//You will want to change the MODID, MODNAME, and package names to what your mod will be. Don't forget to rename/ refactor and let IntelliJ rename all references. 
 
 public class Reference 
 {
